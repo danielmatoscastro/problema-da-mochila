@@ -1,0 +1,6 @@
+C:\Users\E28687\Desktop\problema_mochila\problema_mochila\bin\Debug\problema_mochila.exe.config
+C:\Users\E28687\Desktop\problema_mochila\problema_mochila\bin\Debug\problema_mochila.exe
+C:\Users\E28687\Desktop\problema_mochila\problema_mochila\bin\Debug\problema_mochila.pdb
+C:\Users\E28687\Desktop\problema_mochila\problema_mochila\obj\Debug\problema_mochila.csprojResolveAssemblyReference.cache
+C:\Users\E28687\Desktop\problema_mochila\problema_mochila\obj\Debug\problema_mochila.exe
+C:\Users\E28687\Desktop\problema_mochila\problema_mochila\obj\Debug\problema_mochila.pdb
